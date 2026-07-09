@@ -1,0 +1,29 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data & Models
+data/
+models/
+logs/
+*.pt
+*.pth
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+.venv/
+__pycache__/
