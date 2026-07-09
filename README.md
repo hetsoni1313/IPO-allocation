@@ -1,4 +1,4 @@
-# ⚡ Real-Time Market Anomaly & IPO Allocation Engine
+# Real-Time Market Anomaly & IPO Allocation Engine
 
 <p align="center">
   <strong>Production-Grade Self-Learning Quantitative System</strong><br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🖥️ Visual Tour
+## Visual Tour
 
 ### 1. Institutional Trading Terminal
 *Live KPI cards (P&L, Win Rate, Anomalies, Ticks, Capital, Sharpe, Risk Regime) and a multi-symbol TradingView chart with LSTM prediction overlay.*
@@ -89,7 +89,7 @@
 │                 │                        │
 │                 ▼                        │
 │  ┌──────────────────────────────────┐   │
-│  │  Adaptive Risk Manager (🧠)       │   │
+│  │  Adaptive Risk Manager           │   │
 │  │  Kelly Criterion · Risk Regimes   │   │
 │  └──────────────┬───────────────────┘   │
 │                 │                        │
@@ -350,11 +350,3 @@ hidden_size = 128
 num_layers = 3
 sequence_length = 60
 ```
-
-## License
-
-MIT
-
----
-
-**Built by Het Katrodiya** — Showcasing expertise in Data Engineering, Quantitative Analysis, Business Analytics, and ML Engineering.
